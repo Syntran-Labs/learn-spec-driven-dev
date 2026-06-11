@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit -m ' *)",
+      "Bash(python -m src gold)",
+      "Bash(python -m src exchange EUR)",
+      "Bash(python -m src rates EUR GBP MXN)",
+      "Bash(python -m src all)",
+      "Bash(python -m src rate EUR)",
+      "Bash(python -m src)",
+      "Bash(git push *)",
+      "Bash(python -m pytest tests/ -q)",
+      "Bash(git add *)",
+      "Bash(python -m src bitcoin)",
+      "Bash(cd \"e:\\\\Users\\\\User\\\\Documents\\\\Coding Proyects\\\\learning-lab\" && ls -la && echo \"---\" && pwd)",
+      "Read(//e/Users/User/Documents/Coding Proyects/learning-lab/**)",
+      "Read(//e/Users/User/Documents/Coding Proyects/**)",
+      "Bash(cp -r learning-lab/spec-driven-development learn-spec-driven-dev)"
+    ]
+  }
+}
