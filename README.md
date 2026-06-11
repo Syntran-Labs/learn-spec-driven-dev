@@ -1,6 +1,6 @@
-# Price Fetcher - Spec Driven Development
+# Learn Spec-Driven Development
 
-📚 **Part of:** [Syntran Labs Learning Lab](https://github.com/Syntran-Labs/learning-lab) — A curated collection of educational projects
+📚 **Part of the [Syntran Labs Learning Lab](https://github.com/Syntran-Labs/learning-lab) catalog.**
 
 <div align="center">
 
@@ -11,9 +11,9 @@
 ![Type Coverage](https://img.shields.io/badge/Type%20Coverage-100%25-brightgreen?style=flat-square)
 ![Built with AI](https://img.shields.io/badge/Built%20with-AI-purple?style=flat-square)
 
-**A learning project demonstrating Spec Driven Development using OpenSpec and pytest**
+**A hands-on Python learning project demonstrating Spec-Driven Development with executable specifications, pytest, Red-Green-Refactor, dependency injection, and responsible AI-assisted engineering.**
 
-*Not "AI garbage" — deliberately designed, thoroughly reviewed, professionally structured for educational purposes*
+*Deliberately designed, thoroughly reviewed, professionally structured for educational purposes — not a production system.*
 
 </div>
 

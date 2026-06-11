@@ -141,7 +141,7 @@ Make sure you're in the project root directory:
 
 ```bash
 # Correct ✅
-cd /path/to/sdd_test
+cd /path/to/learn-spec-driven-dev
 python -m src bitcoin
 
 # Wrong ❌
