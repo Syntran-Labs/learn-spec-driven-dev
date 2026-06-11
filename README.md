@@ -3,7 +3,7 @@
 > Part of the [Syntran Labs Learning Lab](https://github.com/Syntran-Labs/learning-lab) catalog.
 
 ![SDD](https://img.shields.io/badge/Methodology-SDD-blue?style=flat-square)
-![Tests](https://img.shields.io/badge/Tests-44%2F44%20✓-brightgreen?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-44%2F44%20%E2%9C%93-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Type Coverage](https://img.shields.io/badge/Type%20Coverage-100%25-brightgreen?style=flat-square)
