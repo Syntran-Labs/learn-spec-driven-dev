@@ -1,8 +1,6 @@
 # Learn Spec-Driven Development
 
-📚 **Part of the [Syntran Labs Learning Lab](https://github.com/Syntran-Labs/learning-lab) catalog.**
-
-<div align="center">
+> Part of the [Syntran Labs Learning Lab](https://github.com/Syntran-Labs/learning-lab) catalog.
 
 ![SDD](https://img.shields.io/badge/Methodology-SDD-blue?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-44%2F44%20✓-brightgreen?style=flat-square)
@@ -11,11 +9,9 @@
 ![Type Coverage](https://img.shields.io/badge/Type%20Coverage-100%25-brightgreen?style=flat-square)
 ![Built with AI](https://img.shields.io/badge/Built%20with-AI-purple?style=flat-square)
 
-**A Price Fetcher learning project built to demonstrate Spec-Driven Development with Python, executable specs, pytest, Red-Green-Refactor, dependency injection, and responsible AI-assisted engineering.**
+A Price Fetcher learning project built to demonstrate Spec-Driven Development with Python, executable specs, pytest, Red-Green-Refactor, dependency injection, and responsible AI-assisted engineering.
 
 *Deliberately designed, reviewed, tested, and documented as an educational engineering example — not just generated code.*
-
-</div>
 
 ---
 
@@ -149,7 +145,7 @@ Just 6 focused changes following a clear pattern:
 5. Add `fetch_ethereum()` to `PriceFetcher`
 6. Add CLI command in `src/cli.py`
 
-**[→ Detailed guide](docs/07-extending-architecture.md) | [→ Step-by-step tutorial](docs/08-tutorial-add-ethereum.md)****
+**[→ Detailed guide](docs/07-extending-architecture.md) | [→ Step-by-step tutorial](docs/08-tutorial-add-ethereum.md)**
 
 ---
 
@@ -238,8 +234,4 @@ MIT License - See [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-
 **Ready to learn SDD? [Start here →](docs/01-getting-started.md)**
-
-</div>
