@@ -11,9 +11,9 @@
 ![Type Coverage](https://img.shields.io/badge/Type%20Coverage-100%25-brightgreen?style=flat-square)
 ![Built with AI](https://img.shields.io/badge/Built%20with-AI-purple?style=flat-square)
 
-**A hands-on Python learning project demonstrating Spec-Driven Development with executable specifications, pytest, Red-Green-Refactor, dependency injection, and responsible AI-assisted engineering.**
+**A Price Fetcher learning project built to demonstrate Spec-Driven Development with Python, executable specs, pytest, Red-Green-Refactor, dependency injection, and responsible AI-assisted engineering.**
 
-*Deliberately designed, thoroughly reviewed, professionally structured for educational purposes — not a production system.*
+*Deliberately designed, reviewed, tested, and documented as an educational engineering example — not just generated code.*
 
 </div>
 
